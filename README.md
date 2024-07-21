@@ -12,7 +12,7 @@
 
 
 <p align="center"><img src="https://myreadme.vercel.app/api/embed/tungkhac?panels=userstatistics,toplanguages,commitgraph"/></p>
-<p align="center"><img src="https://raw.githubusercontent.com/tungkhac/tungkhac/output/github-snake.svg"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/tungkhac/tungkhac/output/github-contribution-grid-snake.svg"></p>
 
 
 <!--
