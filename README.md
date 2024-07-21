@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Nguyen Khac Tung <img src="https://i.giphy.com/9J8K8WEWLXZk7s0OMB.webp" width="50"></h1>
-<p align="center">🔭 The universe is so vast. I'm just a <b>grain of sand<b>.</p>
+<p align="center">🔭 The universe is so vast. We are just a <b>grain of sand<b>.</p>
 
 <p align="center">
   <a target="_blank" href="http://t.me/tungnk"><img src="https://img.shields.io/badge/Telegram-%232E87FB?style=for-the-badge&logo=telegram&logoColor=white"/></a> 
